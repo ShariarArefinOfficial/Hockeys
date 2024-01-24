@@ -26,5 +26,5 @@ Developer Name:Shariar arefin
 .card.image-full:before {
  
 
-  background-color:transparent;
+  background-color:transparent !important;
 }

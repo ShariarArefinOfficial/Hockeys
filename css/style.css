@@ -17,3 +17,14 @@ Developer Name:Shariar arefin
 .custom-anchor{
     text-decoration: none;
 }
+.custom-w{
+  width: 90%;
+  transform: translate(50px, 10px);
+}
+
+
+.card.image-full:before {
+ 
+
+  background-color:transparent;
+}
